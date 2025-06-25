@@ -1,10 +1,10 @@
-# 🍽️ MyFood - Online Food Ordering App
+# ~ MyFood - Online Food Ordering App
 
 link to see my app : https://ninadkhajone1.github.io/MyFood/  *IMP* [ Remember I have saved Data in Database and git can't access database so data won't be visible , also you can't signup and login until i host it ]
 
 A full-stack food ordering web app built with **React**, **Node.js**, **Express**, and **MongoDB Atlas**.
 
-##  Features
+## ~ Features
 - User Signup & Login (JWT Auth)
 - Browse & order food
 - Auto-fetch current location
@@ -12,7 +12,7 @@ A full-stack food ordering web app built with **React**, **Node.js**, **Express*
 - View past orders
 - Responsive UI with Bootstrap 5 Dark
 
-## How It Works
+## ~ How It Works
 
 1. **User signs up or logs in**  
    - Credentials are securely stored in MongoDB with hashed passwords.  
@@ -32,7 +32,7 @@ A full-stack food ordering web app built with **React**, **Node.js**, **Express*
    - On signup, app fetches user’s location using Geolocation API and reverse geocodes it.
 
 
-## Behind the Scenes (Short Overview)
+## ~ Behind the Scenes (Short Overview)
 
 - **React Frontend** handles UI, routing, and state (cart, forms).
 - **Express Backend** manages authentication, food data, and orders.
@@ -40,7 +40,7 @@ A full-stack food ordering web app built with **React**, **Node.js**, **Express*
 - **Render.com** (or similar) is used for deploying backend API.
 - **GitHub Pages** hosts the frontend.
 
-## 🛠 Tech Stack
+## ~ Tech Stack
 - **Frontend**: React, React Router, Bootstrap 5
 - **Backend**: Node.js, Express, MongoDB Atlas, JWT, bcrypt
 
