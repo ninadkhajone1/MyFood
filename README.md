@@ -40,20 +40,6 @@ A full-stack food ordering web app built with **React**, **Node.js**, **Express*
 - **Render.com** (or similar) is used for deploying backend API.
 - **GitHub Pages** hosts the frontend.
 
-
-## Behind the Scenes (Short Overview)
-React Frontend handles UI, routing, and state (cart, forms).
-
-Express Backend manages authentication, food data, and orders.
-
-MongoDB Atlas stores all users, food items, and orders.
-
-Render.com (or similar) is used for deploying backend API.
-
-GitHub Pages hosts the frontend.
-
-
-
 ## 🛠 Tech Stack
 - **Frontend**: React, React Router, Bootstrap 5
 - **Backend**: Node.js, Express, MongoDB Atlas, JWT, bcrypt
