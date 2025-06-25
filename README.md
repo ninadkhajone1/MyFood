@@ -1,6 +1,6 @@
 # 🍽️ MyFood - Online Food Ordering App
 
-link to see my app : https://ninadkhajone1.github.io/MyFood/  *IMP* [ Remember I have saved Data in Database and git can't access database so data wont be visible , also you cant signup and login until i host it ]
+link to see my app : https://ninadkhajone1.github.io/MyFood/  *IMP* [ Remember I have saved Data in Database and git can't access database so data won't be visible , also you can't signup and login until i host it ]
 
 A full-stack food ordering web app built with **React**, **Node.js**, **Express**, and **MongoDB Atlas**.
 
